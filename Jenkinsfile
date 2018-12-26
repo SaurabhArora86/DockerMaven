@@ -1,4 +1,4 @@
-o Pipeline {
+Pipeline {
     agent any
     stages{
         stage('Build'){
