@@ -4,6 +4,7 @@ o Pipeline {
         stage('Build'){
             steps {
                echo 'Building...'
+                }
             }
             stage('Deploy'){
             steps {
